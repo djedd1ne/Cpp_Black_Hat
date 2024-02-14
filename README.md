@@ -1,4 +1,4 @@
-# CPP_VUL
+# Cpp_Black_Hat
 <h3><b>Black Hat C++</b>: C++ For Pentesters course</h3>
 
 for /network/code.c use: <br>
